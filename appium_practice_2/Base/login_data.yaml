@@ -1,0 +1,4 @@
+data:
+  - test_login_1: {phone: "15881036627",pwd: "123456",except: 成功}
+  - test_login_2: {phone: " 15881036627",pwd: "123456",except: 成功}
+  - test_login_3: {phone: "15881036627 ",pwd: 123456,except: 成功}
